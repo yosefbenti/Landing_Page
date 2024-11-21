@@ -58,6 +58,7 @@ section.one {
 .one_one .one_one_middle_top {
   /*border: 1px solid gold;*/
   flex:1;
+  margin-top: 10px;
 }
 
 .one_one .one_one_middle_bottom {
@@ -91,6 +92,7 @@ section.one {
   display: flex;
   justify-content: center;
   width: 100%;
+  margin-top: 10px;
 }
 /*.one_two_one .head.one{
   background-color: gold;
@@ -108,10 +110,10 @@ section.one {
 .heading_one{
   background-color: #3882f6;
   border-radius: 5px;
-  width: 40%;
+  width: 33%;
   border: 1px solid #3882f6;
   color: #E5E7EB;
-  font-size: small;
+  
 }
 .one_two .one_two_two{
   /*border: 1px solid red;*/
